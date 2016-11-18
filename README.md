@@ -1,3 +1,3 @@
 # MLB-Predicting-Salary-from-Statistics
 
-My project focuses on MLB batting statistics from the years 1985, 2000 and 2015. The data sets were found on the Sean Lahmen website and can be acc
+My project focuses on MLB batting statistics and salaries from the years 1985, 2000 and 2015. The data sets were found on the Sean Lahmen website and can be accessed by the link found within the "Projects" tab. The significance of my project is to find out what statistics are the best predictor of salary. The specific statistics that I am focusing on are hits, home runs, hit by pitch and RBI's. I first have to load the data into RStudio then analyze the data. The slopes and p-values will be found for each statistic compared to salary. I will then compare the p-values and slopes of each statistic over time (1985, 2000, 2015). My findings will be displayed graphically and also discussed. 
